@@ -8,6 +8,7 @@ Run code:
 Mở terminal:
 - Window:
     > gcc -o run ./main.cpp ./handle_encrypt.cpp ./handle_decrypt.cpp ./aes.cpp
+    
     > ./run
 
 - Linux:
